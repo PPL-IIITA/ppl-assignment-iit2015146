@@ -9,4 +9,4 @@ Compiler : Eclipse Java Neon IDE <br/>
 Note : All the builds are done in Windows Command Prompt
 To build question1 : javac ppl
 #Documentation
-Prepared by javadoc and can be ./documentation/html/index.html
+Prepared by javadoc and can be ./ppl.java/doc/index.html
